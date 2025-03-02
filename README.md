@@ -2,3 +2,4 @@
 This Entire Repo was maybe by the new Claude 3.7 Sonnet Model. 
 
 ### Make Sure you install all needed Libraries. I lost count for the libs u need. 
+The Higher the number the more recent the version is. 
